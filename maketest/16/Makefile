@@ -1,0 +1,4 @@
+.SILENT :											
+						
+	echo "hello there!!"									   
+						

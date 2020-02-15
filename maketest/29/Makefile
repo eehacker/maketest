@@ -1,0 +1,6 @@
+ all :
+ifeq ($(CC),gcc)				
+	@echo "C compiler is GNU gcc" 
+else
+	@echo "C compiler is $(CC)"
+endif
