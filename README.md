@@ -1,6 +1,6 @@
 ### README.md
--Make-build TEST 
+Provides Make-build-TEST examples !! 
 =================
--Hi everyone!!
----------------------
 eehacker.blogspot.com
+---------------------
+
